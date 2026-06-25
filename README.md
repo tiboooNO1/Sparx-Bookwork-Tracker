@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://socialify.git.ci/tiboooNO1/Sparx-Bookwork-Tracker/image?description=1&amp;font=JetBrains+Mono&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit+Board&amp;stargazers=1&amp;theme=Dark" alt="project-image](https://socialify.git.ci/tiboooNO1/Sparx-Bookwork-Tracker/image?description=1&font=JetBrains+Mono&name=1&owner=1&theme=Auto)"></p>
+<p align="center"><img src="https://socialify.git.ci/tiboooNO1/Sparx-Bookwork-Tracker/image?description=1&amp;font=JetBrains+Mono&amp;name=1&amp;owner=1&amp;theme=Auto" alt="project-image"></p>
 
 <h2>🛠️ Installation Steps:</h2>
 
